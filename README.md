@@ -1,5 +1,11 @@
 # ConnectX - AI-Driven Fiber & Market Intelligence Platform
 
+---
+
+### YouTube Video Link: https://youtu.be/QSOZWAkT0FY
+
+---
+
 ### Project Idea
 ConnectX is an AI-driven decision-support platform built using IBM WatsonX.ai and Watson Orchestrate. It helps telecom providers and planners identify, evaluate, and prioritize DSL-to-Fiber conversion projects nationwide, enabling data-driven rollout planning for next-generation broadband infrastructure.
 
